@@ -19,7 +19,7 @@ Good optional template for describing your work step by step.
 ### 正在安装
 使用控制台打开cvv文件(windows)
 
-	cd 列表.cvv
+	cd (name of file).cvv
 	
 ## 运行测试
 
