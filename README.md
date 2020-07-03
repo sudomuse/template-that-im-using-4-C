@@ -19,7 +19,7 @@ Good optional template for describing your work step by step.
 ### 正在安装
 使用控制台打开exe文件(windows)
 
-	cd (name of file).exe
+	(name of file).exe
 	
 ## 运行测试
 
